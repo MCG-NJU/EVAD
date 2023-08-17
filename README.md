@@ -4,6 +4,10 @@
 
 > [**Efficient Video Action Detection with Token Dropout and Context Refinement**](https://arxiv.org/abs/2304.08451)<br>[Lei Chen](https://github.com/MiaSanLei), [Zhan Tong](https://github.com/yztongzhan), [Yibing Song](https://ybsong00.github.io/), Gangshan Wu, [Limin Wang](http://wanglimin.github.io/)<br>
 
+## News
+**[2023.07.14]**  Our EVAD is accepted by ICCV 2023! <br>
+**[2023.06.09]**  Code and model weights have been released! <br>
+
 ## Installation
 
 Please find installation instructions in [INSTALL.md](INSTALL.md). 
