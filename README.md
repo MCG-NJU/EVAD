@@ -52,6 +52,13 @@ The majority of this project is released under the CC-BY-NC 4.0 license as found
 
 If you find this project useful, please feel free to leave a star and cite our paper:
 ```BibTeX
+@inproceedings{chen2023efficient,
+    author    = {Chen, Lei and Tong, Zhan and Song, Yibing and Wu, Gangshan and Wang, Limin},
+    title     = {Efficient Video Action Detection with Token Dropout and Context Refinement},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    year      = {2023}
+}
+
 @article{chen2023efficient,
   title={Efficient Video Action Detection with Token Dropout and Context Refinement},
   author={Chen, Lei and Tong, Zhan and Song, Yibing and Wu, Gangshan and Wang, Limin},
